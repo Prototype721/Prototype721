@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prototype721
-- 👀 I’m interested in research.
-- 🌱 I’m currently learning Puthon and C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? Call me
+- 👀 I’m interested in self-education.
+- 🌱 I’m currently learning Python and C++
+- 💞️ I’m looking to collaborate on asteroid mining
+- 📫 How to reach me? You cant
 
 <!---
 Prototype721/Prototype721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
